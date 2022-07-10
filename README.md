@@ -1,7 +1,7 @@
 ### Olá eu sou Brandon Carlos 👋
 
-- 🔭 Hoje trabalho como front-end
-- 🌱 Estudando ReactJS
+- 🔭 Hoje trabalho como Back-end
+- 🌱 Estudando Java
 
 <div>
   <a href="https://github.com/rafaballerini">
